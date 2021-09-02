@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/flashcard-app/static/css/main.fbbf25bb.chunk.css",
+    "main.js": "/flashcard-app/static/js/main.66f9813e.chunk.js",
+    "main.js.map": "/flashcard-app/static/js/main.66f9813e.chunk.js.map",
+    "runtime-main.js": "/flashcard-app/static/js/runtime-main.fcc93293.js",
+    "runtime-main.js.map": "/flashcard-app/static/js/runtime-main.fcc93293.js.map",
+    "static/js/2.b1c715c4.chunk.js": "/flashcard-app/static/js/2.b1c715c4.chunk.js",
+    "static/js/2.b1c715c4.chunk.js.map": "/flashcard-app/static/js/2.b1c715c4.chunk.js.map",
+    "index.html": "/flashcard-app/index.html",
+    "static/css/main.fbbf25bb.chunk.css.map": "/flashcard-app/static/css/main.fbbf25bb.chunk.css.map",
+    "static/js/2.b1c715c4.chunk.js.LICENSE.txt": "/flashcard-app/static/js/2.b1c715c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcc93293.js",
+    "static/js/2.b1c715c4.chunk.js",
+    "static/css/main.fbbf25bb.chunk.css",
+    "static/js/main.66f9813e.chunk.js"
+  ]
+}
