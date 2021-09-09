@@ -1,6 +1,8 @@
 # Piano Intervals Flashcard React App
 
-This project was create to help a piano student learn her intervals using flashcards.
+This project was created to help a piano student learn her intervals using flashcards.
+
+Visit [active site](https://mking301.github.io/flashcard-app/).
 
 
 ## References
